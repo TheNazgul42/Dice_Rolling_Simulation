@@ -6,7 +6,6 @@ Python script that simulates the rolling of dice. It allows users to choose betw
 1. **Roll a single die:** The program rolls one die and displays its value.
 2. **Roll two dice:** The program rolls two dice, displays their values, and shows the total sum.
 3. **Roll a custom number of dice:** The user can specify how many dice they want to roll, and the program will display the values and the total sum.
-4. **Exit the program:** The user can exit the program at any time.
 
 ## How to Run
 
